@@ -1,0 +1,17 @@
+int x;
+int y;
+
+x = 10;
+y = 20;
+
+if (x > y) {
+    print x;
+} else {
+    print y;
+}
+
+if (x == 10) {
+    print x + 5;
+} else {
+    print 0;
+}

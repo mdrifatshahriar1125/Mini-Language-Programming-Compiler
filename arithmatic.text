@@ -1,0 +1,14 @@
+int a;
+int b;
+float c;
+
+a = 12;
+b = 4;
+c = 5.5;
+
+print a + b;
+print a - b;
+print a * b;
+print a / b;
+print (a + b) * (a - b);
+print c + b;
